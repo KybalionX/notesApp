@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(39, 39, 39);
+}
+
+.formulario{
+    background-color: rgb(43, 43, 43);
+    max-width: 800px;
+    margin-top: 32px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 18px 32px;
+    border-radius: 12px;
+    box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.637);
+}
+
+.formulario .form-label{
+    color: white;
+}
+
+.formulario .extra{
+    margin-top: 12px;
+    text-align: center;
+}

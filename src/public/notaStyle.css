@@ -1,0 +1,11 @@
+.nota{
+    background-color: white;
+    padding: 8px 12px;
+    margin: 12px;
+    border-radius: 12px;
+}
+
+.prioritaria{
+    background-color: rgb(235, 88, 88);
+    color: white;
+}

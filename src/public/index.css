@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(31, 31, 31) !important;
+}
+
+.containerIngreso {
+  margin: 12px;
+  padding: 12px;
+  background-color: rgb(49, 49, 49);
+  box-shadow: 4px 4px 12px rgb(48, 34, 34);
+  border-radius: 12px;
+}
+
+.containerIngreso h4 {
+  color: white;
+}
+
+.containerIngreso span {
+  color: white;
+}
+
+.colButtons {
+  text-align: right;
+}
+
+.containerEditar {
+  background-color: white;
+  padding: 12px;
+  margin: 8px;
+  border-radius: 12px;
+  box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.527);
+  position: absolute;
+  top: 10%;
+  margin-left: 20px;
+  margin-right: 20px;
+  left: 0;
+  right: 0;
+  z-index: 2;
+}
+
+
+.containerEditar .header{
+  display: flex;
+  justify-content: space-between;
+}
